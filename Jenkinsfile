@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('git repo & clean') {
             steps {
-               bat "rmdir  /s /q ExitTestFlipkartSeleniumFrameWork"
+               //bat "rmdir  /s /q ExitTestFlipkartSeleniumFrameWork"
                 bat "git clone https://github.com/ADARSHYADAV0609/ExitTestFlipkartSeleniumFrameWork"
                 bat "mvn clean -f ExitTestFlipkartSeleniumFrameWork"
             }
