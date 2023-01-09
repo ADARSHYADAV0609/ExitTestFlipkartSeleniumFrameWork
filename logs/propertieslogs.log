@@ -1,0 +1,79 @@
+[INFO ] 2023-01-09 15:32:54.742 [main] SearchPageTest - Clicked on searchbox
+[INFO ] 2023-01-09 15:32:56.835 [main] SearchPageTest - Search Button clicked
+[INFO ] 2023-01-09 15:33:05.921 [main] SearchPageTest - Actual Title is 
+[INFO ] 2023-01-09 15:33:05.921 [main] SearchPageTest - Expected Title is 
+[INFO ] 2023-01-09 15:33:05.990 [main] FilterTest - Filters Assertion Passed
+[INFO ] 2023-01-09 15:34:11.083 [main] SearchPageTest - Clicked on searchbox
+[INFO ] 2023-01-09 15:34:13.173 [main] SearchPageTest - Search Button clicked
+[INFO ] 2023-01-09 15:34:22.242 [main] SearchPageTest - Actual Title is 
+[INFO ] 2023-01-09 15:34:22.243 [main] SearchPageTest - Expected Title is 
+[INFO ] 2023-01-09 15:34:22.421 [main] FilterTest - Minimum Price Selected
+[INFO ] 2023-01-09 15:34:24.558 [main] FilterTest - Brand selected
+[INFO ] 2023-01-09 15:34:28.677 [main] FilterTest - Customer Rating Entered
+[INFO ] 2023-01-09 15:34:32.853 [main] FilterTest - Storage requirement selected
+[INFO ] 2023-01-09 15:34:39.081 [main] FilterTest - Operating System requirement selected
+[INFO ] 2023-01-09 15:34:43.266 [main] FilterTest - Type of network selected
+[INFO ] 2023-01-09 15:35:35.881 [main] SearchPageTest - Clicked on searchbox
+[INFO ] 2023-01-09 15:35:37.975 [main] SearchPageTest - Search Button clicked
+[INFO ] 2023-01-09 15:35:47.035 [main] SearchPageTest - Actual Title is 
+[INFO ] 2023-01-09 15:35:47.035 [main] SearchPageTest - Expected Title is 
+[INFO ] 2023-01-09 15:35:47.146 [main] PlaceOrderTest - Item Selected
+[INFO ] 2023-01-09 15:35:53.830 [main] PlaceOrderTest - Clicked on add to cart
+[INFO ] 2023-01-09 15:35:58.700 [main] PlaceOrderTest - Clicked on Place Order
+[INFO ] 2023-01-09 15:36:10.030 [main] PlaceOrderTest - Entered Mobile number and Pasword
+[INFO ] 2023-01-09 15:36:10.030 [main] PlaceOrderTest - Clicked on login
+[INFO ] 2023-01-09 15:37:15.506 [main] LoginPageTest - User's valid Mobile Number is entered
+[INFO ] 2023-01-09 15:37:20.526 [main] LoginPageTest - Actual Title is
+[INFO ] 2023-01-09 15:37:20.526 [main] LoginPageTest - Expected Title is
+[INFO ] 2023-01-09 15:38:12.253 [main] SearchPageTest - Clicked on searchbox
+[INFO ] 2023-01-09 15:38:14.334 [main] SearchPageTest - Search Button clicked
+[INFO ] 2023-01-09 15:38:23.398 [main] SearchPageTest - Actual Title is 
+[INFO ] 2023-01-09 15:38:23.398 [main] SearchPageTest - Expected Title is 
+[INFO ] 2023-01-09 15:38:23.496 [main] CartPageTest - Item Selected
+[INFO ] 2023-01-09 15:38:31.114 [main] CartPageTest - ADD_TO_CART Clicked
+[INFO ] 2023-01-09 15:39:22.223 [main] SearchPageTest - Clicked on searchbox
+[INFO ] 2023-01-09 15:39:24.301 [main] SearchPageTest - Search Button clicked
+[INFO ] 2023-01-09 15:39:33.348 [main] SearchPageTest - Actual Title is 
+[INFO ] 2023-01-09 15:39:33.348 [main] SearchPageTest - Expected Title is 
+[INFO ] 2023-01-09 15:40:37.606 [main] SearchPageTest - 
+[INFO ] 2023-01-09 15:40:39.692 [main] SearchPageTest - 
+[INFO ] 2023-01-09 15:40:44.736 [main] SearchPageTest - 
+[INFO ] 2023-01-09 15:41:48.105 [main] LoginPageTest - User's valid Mobile Number is entered
+[INFO ] 2023-01-09 15:41:53.126 [main] LoginPageTest - Actual Title is
+[INFO ] 2023-01-09 15:41:53.126 [main] LoginPageTest - Expected Title is
+[INFO ] 2023-01-09 15:43:08.111 [main] LoginPageTest - Email or Moile is not entered
+[INFO ] 2023-01-09 15:43:08.121 [main] LoginPageTest - Actual Title is
+[INFO ] 2023-01-09 15:43:08.121 [main] LoginPageTest - Expected Title is
+[INFO ] 2023-01-09 15:44:11.975 [main] LoginPageTest - User's valid Mobile Number is entered
+[INFO ] 2023-01-09 15:44:16.992 [main] LoginPageTest - Actual Title is
+[INFO ] 2023-01-09 15:44:16.992 [main] LoginPageTest - Expected Title is
+[INFO ] 2023-01-09 15:45:35.796 [main] LoginPageTest - User's valid Mobile Number is entered
+[INFO ] 2023-01-09 15:45:40.805 [main] LoginPageTest - Actual Title is
+[INFO ] 2023-01-09 15:45:40.806 [main] LoginPageTest - Expected Title is
+[INFO ] 2023-01-09 15:46:41.334 [main] LoginPageTest - User's valid Mobile Number is entered
+[INFO ] 2023-01-09 15:46:46.357 [main] LoginPageTest - Actual Title is
+[INFO ] 2023-01-09 15:46:46.358 [main] LoginPageTest - Expected Title is
+[INFO ] 2023-01-09 15:47:47.083 [main] LoginPageTest - User's valid Mobile Number is entered
+[INFO ] 2023-01-09 15:47:52.104 [main] LoginPageTest - Actual Title is
+[INFO ] 2023-01-09 15:47:52.104 [main] LoginPageTest - Expected Title is
+[INFO ] 2023-01-09 15:49:10.238 [main] SignUpPageTest - Clicked on create account
+[INFO ] 2023-01-09 15:49:10.405 [main] SignUpPageTest - Mobile or email entered
+[INFO ] 2023-01-09 15:50:00.280 [main] HomePageTest - Title Verified
+[INFO ] 2023-01-09 15:50:47.211 [main] HomePageTest - Search Box is displayed
+[INFO ] 2023-01-09 15:51:50.348 [main] HomePageTest - Cart Option is displayed
+[INFO ] 2023-01-09 15:52:38.553 [main] HomePageTest - Logo is displayed
+[INFO ] 2023-01-09 15:53:26.720 [main] GroceryTest - Actual title is Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+[INFO ] 2023-01-09 15:53:26.730 [main] GroceryTest - Expected Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+[INFO ] 2023-01-09 15:54:13.782 [main] GroceryTest - Clicked on Grocery
+[INFO ] 2023-01-09 15:54:18.881 [main] GroceryTest - Pin code entered
+[INFO ] 2023-01-09 15:54:20.958 [main] GroceryTest - Clicked on Current Location
+[INFO ] 2023-01-09 15:54:24.173 [main] GroceryTest - Product Searched
+[INFO ] 2023-01-09 15:55:16.225 [main] LoginPageTest - User's valid Mobile Number is entered
+[INFO ] 2023-01-09 15:55:21.245 [main] LoginPageTest - Actual Title is
+[INFO ] 2023-01-09 15:55:21.246 [main] LoginPageTest - Expected Title is
+[INFO ] 2023-01-09 16:02:31.643 [main] GroceryTest - Actual title is Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+[INFO ] 2023-01-09 16:02:31.653 [main] GroceryTest - Expected Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+[INFO ] 2023-01-09 16:03:37.884 [main] GroceryTest - Clicked on Grocery
+[INFO ] 2023-01-09 16:03:42.966 [main] GroceryTest - Pin code entered
+[INFO ] 2023-01-09 16:03:45.045 [main] GroceryTest - Clicked on Current Location
+[INFO ] 2023-01-09 16:03:48.275 [main] GroceryTest - Product Searched
